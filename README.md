@@ -7,4 +7,7 @@ Ionic Snippets Plugin for Sublime Text 2 &amp; 3
 
 Clone this repo into your sublime packages folder.
 
-```https://github.com/oraneedwards/ionic-sublime-plugin.git```
+```
+
+https://github.com/oraneedwards/ionic-sublime-plugin.git
+```
