@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<${1:div} class="bar bar-footer bar-energized">${2:<h1 class="title">Header</h1>}</${1:div}>
+]]></content>
+	<tabTrigger>ion-footer:energized</tabTrigger>
+</snippet>
