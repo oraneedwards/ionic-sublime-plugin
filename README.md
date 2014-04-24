@@ -22,3 +22,15 @@ Clone this repo into your sublime packages folder.
 * Download the [.zip](https://github.com/oraneedwards/ionic-sublime-plugin/archive/master.zip) file
 * Unzip into your sublime packages folder( Preferences> Browse Packages).
 * Restart Sublime if necessary.
+
+
+## Usage
+
+Just type a shortcut followed by pressing the tab key
+
+    ion-button:balanced
+expands to
+
+    <button class="button button-balanced">Button</button>
+
+NOTE: pressing tab again will will jump to the placeholder text inside the ``<button>`` tags for easy editing.
