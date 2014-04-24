@@ -1,6 +1,8 @@
 <snippet>
 	<content><![CDATA[
-<${1:div} class="bar bar-header bar-dark">${2:<h1 class="title">Header</h1>}</${1:div}>
+<div class="bar bar-header bar-dark">${1:<h1 class="title">Header</h1>}</div>
 ]]></content>
 	<tabTrigger>ion-header:dark</tabTrigger>
+	<source></source>
+	<description></description>
 </snippet>

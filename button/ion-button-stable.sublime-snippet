@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<button class="button button-stable">${1:Button}</button>
+]]></content>
+	<tabTrigger>ion-button:stable</tabTrigger>
+	<source></source>
+	<description></description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<button class="button button-energized">${1:Button}</button>
+]]></content>
+	<tabTrigger>ion-button:energized</tabTrigger>
+	<source></source>
+	<description></description>
+</snippet>

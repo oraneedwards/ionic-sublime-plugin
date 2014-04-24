@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<button class="button button-full button-dark">${1:Button}</button>
+]]></content>
+	<tabTrigger>ion-button-full:dark</tabTrigger>
+	<source></source>
+	<description></description>
+</snippet>

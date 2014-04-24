@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<button class="button button-positive">${1:Button}</button>
+]]></content>
+	<tabTrigger>ion-button:positive</tabTrigger>
+	<source></source>
+	<description></description>
+</snippet>
